@@ -1,0 +1,1 @@
+这个目录下的网页是用来作为rhythm-of-pingpong的前端界面，后端的代码在[这里](https://github.com/lutherlau/rhythm-of-pingpong)。
